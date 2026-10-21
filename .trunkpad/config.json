@@ -1,3 +1,6 @@
 {
-  "requireDrafts": true
+  "requireDrafts": true,
+  "review": {
+    "approvals": 1
+  }
 }
