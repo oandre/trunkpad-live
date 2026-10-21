@@ -1,3 +1,3 @@
 # Plano
 
-Meta: 100
+Meta: 150
